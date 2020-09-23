@@ -22,7 +22,7 @@ Design converted from a Figma template to HTML/CSS/SASS.
 
 ## Important Links
 
-- [Live demo](https://raj-batth.github.io/restaurant/dist/)
+- [Live demo](https://raj-batth.github.io/Restaurant/)
 
 ## License
 
